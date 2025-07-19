@@ -1,0 +1,7 @@
+requests
+readability-lxml
+ddgs
+psutil
+tiktoken
+pillow
+beautifulsoup4
