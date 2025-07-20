@@ -1,3 +1,6 @@
+
+![llama_detective_bg](https://github.com/user-attachments/assets/b159f110-21ed-4ce7-837b-2901a68536f5)
+
 # Inspecta-Llama
 
 Inspecta-Llama is the first tool in the Llamatrama suite—a symbolic warhead missile for advanced research and analysis. This application serves as the initial stage of the warhead, designed to inspect, analyze, and optimize research cases using the Llama API.
